@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-google-login-component": "^0.9.3"
+  }
+}
